@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.triumen.apns.http2.client.ClientApplication
+
